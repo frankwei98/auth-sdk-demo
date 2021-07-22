@@ -1139,10 +1139,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@meta-network/auth-sdk@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@meta-network/auth-sdk/-/auth-sdk-0.1.0.tgz#2e2dda2d938d7e7edb202a1eb451d5dc6736fdd6"
-  integrity sha512-0PwNpWkgpnE+8XWmYeRQ5r37atKqiZIrGwWiWVp3qZqYshg/Mceo23ivZm8H0jOEjw/hkisiIyt7O24f4SlMlQ==
+"@meta-network/auth-sdk@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@meta-network/auth-sdk/-/auth-sdk-0.1.1.tgz#5c1e8d7ff2f049f3325be73347caed8bac653a23"
+  integrity sha512-2C1fca0Oa9xpWTOUieyzUqHLcNsdivHavmwczzaRY07bKehAElgz855FXywnOA4Yvs6bIS6bKjCCedpHjLl3xA==
   dependencies:
     jsonwebtoken "^8.5.1"
 
